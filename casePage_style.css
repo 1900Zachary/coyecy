@@ -6,3 +6,23 @@ body{
     background: url(./bar/case_active.png) no-repeat center;
     background-size: 100%;
 }
+
+h3{
+    margin:5px 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8%;
+    font-weight: normal;
+}
+
+.cases_Contanier{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.case_enter {
+    flex-basis: 49.6vw;
+    height: 27.9vw;
+    background-color: #ccc;
+    margin:0.4vw 0;
+}
