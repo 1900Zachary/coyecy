@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    background-color: #1c1c1c;
+}
+
+#about_item{
+    background: url(./bar/about_active.png) no-repeat center;
+    background-size: 100%;
+}
+
+body>img{
+    width: 100%;
+    height: auto;
+    margin-bottom:7vh;
+}
