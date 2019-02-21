@@ -47,17 +47,7 @@
     background-size: 100%;
 }
 
-#case_item:active{
-    background: url(./bar/case_active.png) no-repeat center;
-    background-size: 100%;
-}
-
 #about_item{
     background: url(./bar/about_normal.png) no-repeat center;
-    background-size: 88%;
-}
-
-#about_item:active{
-    background: url(./bar/about_active.png) no-repeat center;
     background-size: 88%;
 }
