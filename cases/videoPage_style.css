@@ -1,0 +1,24 @@
+body{
+    margin:0;
+}
+
+video{
+    width: 100vw;
+    height: 56.25vw;
+    background-color: #000;
+}
+
+h3{
+    margin:5px 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 4%;
+    font-weight: normal;
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+}
+
+#info>span{
+    padding-left: 4%;
+    font-size: 0.8rem;
+}
