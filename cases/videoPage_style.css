@@ -1,5 +1,10 @@
 body{
     margin:0;
+    background-color: #1c1c1c;
+}
+
+#contentContainer{
+    color:#fff;
 }
 
 video{
@@ -19,6 +24,7 @@ h3{
 }
 
 #info>span{
+    color:#bbb;
     padding-left: 4%;
     font-size: 0.8rem;
 }
@@ -30,6 +36,7 @@ h3{
 }
 
 .brief>p{
+    color:#bbb;
     font-size:0.8rem;
     text-indent: 2rem;
     margin-block-start: 0em;
